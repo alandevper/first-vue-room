@@ -1,3 +1,6 @@
+# github page
+[https://alandevper.github.io/first-vue-room](https://alandevper.github.io/first-vue-room)
+
 # first-vue
 
 ## Project setup
